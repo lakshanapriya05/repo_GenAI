@@ -1,11 +1,12 @@
-Make,Colour,Odometer (KM),Doors,Price
-Toyota,White,150043,4,"$4,000.00"
-Honda,Red,87899,4,"$5,000.00"
-Toyota,Blue,32549,3,"$7,000.00"
-BMW,Black,11179,5,"$22,000.00"
-Nissan,White,213095,4,"$3,500.00"
-Toyota,Green,99213,4,"$4,500.00"
-Honda,Blue,45698,4,"$7,500.00"
-Honda,Blue,54738,4,"$7,000.00"
-Toyota,White,60000,4,"$6,250.00"
-Nissan,White,31600,4,"$9,700.00"
+ ,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+EmpID,Name,Department,Age,Salary,Experience,City
+101,Arun,IT,25,35000,2,Chennai
+102,Priya,HR,29,42000,5,Madurai
+103,Kumar,IT,32,58000,8,Chennai
+104,Divya,Finance,27,39000,3,Coimbatore
+105,Rahul,IT,24,30000,1,Salem
+106,Meena,HR,35,62000,10,Chennai
+107,Sathish,Finance,31,51000,7,Madurai
+108,Nila,IT,28,47000,4,Coimbatore
+109,Vijay,Sales,30,44000,6,Chennai
+110,Kavya,Sales,26,36000,2,Salem
